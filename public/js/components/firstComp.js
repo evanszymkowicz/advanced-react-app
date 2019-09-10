@@ -268,7 +268,7 @@ var Header = function (_Component) {
     var _this = _possibleConstructorReturn(this, (Header.__proto__ || Object.getPrototypeOf(Header)).call(this));
 
     _this.state = {
-      name: 'Joe'
+      name: 'Evan'
     };
     return _this;
   }
@@ -698,17 +698,17 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 var listingsData = [{
-  address: '20-34 grand ave',
-  city: 'Ridgewood',
-  state: 'NY',
-  rooms: 3,
+  address: '2608  Washington Ave',
+  city: 'Chevy Chase',
+  state: 'MD',
+  rooms: 5,
   price: 220000,
-  floorSpace: 2000,
+  floorSpace: 3200,
   extras: ['elevator', 'gym'],
-  homeType: 'Apartment',
+  homeType: 'Single Home',
   image: 'http://media.equityapartments.com/images/c_crop,x_0,y_0,w_1920,h_1080/c_fill,w_1920,h_1080/q_80/4206-28/the-kelvin-apartments-exterior.jpg'
 }, {
-  address: '3 universal st',
+  address: '3 Universal St',
   city: 'Miami',
   state: 'FL',
   rooms: 2,
@@ -718,7 +718,7 @@ var listingsData = [{
   homeType: 'Condo',
   image: 'https://www.adinahotels.com/wp-content/uploads/sites/4/2016/07/adina-melbourne-flinders-street-apartment-hotel-one-and-two-bedroom-apartment-2-2013.jpg'
 }, {
-  address: '1 president plaza',
+  address: '1 Presidential plaza',
   city: 'Richmond',
   state: 'VA',
   rooms: 1,
@@ -728,7 +728,7 @@ var listingsData = [{
   homeType: 'Single Home',
   image: 'https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2017/01/09/BostonGlobe.com/Lifestyle/Images/doherty_10names04_liv.jpg'
 }, {
-  address: '889 beemore st',
+  address: '889 Beemore St',
   city: 'Newark',
   state: 'NJ',
   rooms: 0,
@@ -738,7 +738,7 @@ var listingsData = [{
   homeType: 'Studio',
   image: 'http://media.equityapartments.com/images/q_50/f_auto/fl_lossy/685-28/oak-park-apartment-homes-kitchen'
 }, {
-  address: '43 hollywood blvd',
+  address: '43 Hollywood Blvd',
   city: 'Los Angeles',
   state: 'CA',
   rooms: 3,
@@ -748,7 +748,7 @@ var listingsData = [{
   homeType: 'Condo',
   image: 'http://cdn.freshome.com/wp-content/uploads/2016/02/design-modern-apartment-1-1025x450.jpg'
 }, {
-  address: '2 main st',
+  address: '2 Main St',
   city: 'Bedstuy',
   state: 'NY',
   rooms: 2,
@@ -758,7 +758,7 @@ var listingsData = [{
   homeType: 'Multi Home',
   image: 'http://www.theproserve.com/wp-content/uploads/2013/03/apartment-complex-insurance.jpg'
 }, {
-  address: '730 gates ave',
+  address: '730 Gates Ave',
   city: 'Springfield',
   state: 'IN',
   rooms: 1,
